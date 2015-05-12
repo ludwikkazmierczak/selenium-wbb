@@ -1,5 +1,5 @@
 # selenium-wbb
-Selenium-webdriver binding benchmarking
+Selenium-webdriver binding benchmark
 
 ``` Project under development - keep calm and come back```
 
